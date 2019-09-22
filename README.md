@@ -1,7 +1,6 @@
-# hci
-Human-computer interaction
+# Komunikacja Człowiek-Komputer
 
-Komunikacja Człowiek-Komputer (Human-Computer Interaction)
+(Human-Computer Interaction)
 
 ![BCI](images/bci.jpg)
 
