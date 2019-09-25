@@ -1,20 +1,20 @@
-# Komunikacja Człowiek-Komputer
+# Komunikacja Człowiek-Komputer :walking: :left_right_arrow: :computer:
 
-(Human-Computer Interaction)
+*Human-Computer Interaction*
 
 ![BCI](images/bci.jpg)
 
-Przedmiot prowadzony jest dla studentów 2-ego roku kierunku kognitywistyka na Uniwersytecie Adama Mickiewicza w Poznaniu.
+Przedmiot prowadzony jest dla studentów 2-ego roku kierunku kognitywistyka na Uniwersytecie Adama Mickiewicza w Poznaniu. :mortar_board:
 
-Polecamy podgląd tego repozytorium w Jupyter nbviewer pod [tym](https://nbviewer.jupyter.org/github/mikbuch/hci/tree/master/) adresem.
+Polecamy podgląd tego repozytorium w Jupyter nbviewer pod :full_moon: [tym](https://nbviewer.jupyter.org/github/mikbuch/hci/tree/master/) :mag: adresem.
 
-### Kontakt do prowadzących
+### :e-mail: Kontakt do prowadzących
 
  * dr inż Marcin Jukiewicz (koordynator) marcin.jukiewicz[at]amu.edu.pl
  * mgr Dawid Ratajczyk, dawid.ratajczyk[at]amu.edu.pl
  * mgr Mikołaj Buchwald, mikolaj.buchwald[at]amu.edu.pl
 
-### Z czego składa się kurs?
+### :books: Z czego składa się kurs?
 
 Kurs składa się z dwóch zasadniczych części:
  1. Web development (podstawy rozwoju oprogramowania)
@@ -24,13 +24,13 @@ Podczas realizacji każdej części wykonujemy projekt w grupach dwuosobowych. O
 
 Ocena końcowa jest wypadkową dwóch ocen z projektów.
 
-### Kryteria oceny projektów
+###  :scroll: Kryteria oceny projektów
 
 Skala ocen z projektów: 2.0, 3.0, 3.5, 4.0, 4.5, 5.0
 
 Wymagania ogólne:
- * projekt znajduje się na GitHubie,
- * raport zgodny z wytycznymi przekazanymi na wykładzie.
+ * :octocat: projekt znajduje się na GitHubie,
+ * :page_with_curl: raport zgodny z wytycznymi przekazanymi na wykładzie.
 
 Wymagania odnośnie raportów:
  * brak strony tytułowej: dwie oceny w dół,
@@ -41,7 +41,7 @@ Wymagania odnośnie raportów:
  * brak bibliografii/źródeł: dwie oceny w dół,
  * bibliografia/źródła niezgodne z wytycznymi: ocena w dół.
 
-**Uwaga**: Zgodnie z regulaminem studiów obowiązują dwie obecności, niezależnie od tego, czy są one usprawiedliwione, czy nie.
+:clock8: **Uwaga** :office: Zgodnie z regulaminem studiów obowiązują dwie obecności, niezależnie od tego, czy są one usprawiedliwione, czy nie. :blue_book:
 
 #### Informacje dodatkowe
 
