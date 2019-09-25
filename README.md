@@ -10,15 +10,16 @@ Polecamy podgląd tego repozytorium w Jupyter nbviewer pod [tym](https://nbviewe
 
 ### Kontakt do prowadzących
 
- * dr inż Marcin Jukiewicz (koordynator) marcin.jukiewicz@amu.edu.pl
- * mgr Dawid Ratajczyk, dawid.ratajczyk@amu.edu.pl
- * mgr Mikołaj Buchwald, mikolaj.buchwald@amu.edu.pl
+ * dr inż Marcin Jukiewicz (koordynator) marcin.jukiewicz[at]amu.edu.pl
+ * mgr Dawid Ratajczyk, dawid.ratajczyk[at]amu.edu.pl
+ * mgr Mikołaj Buchwald, mikolaj.buchwald[at]amu.edu.pl
 
 ### Z czego składa się kurs?
 
 Kurs składa się z dwóch zasadniczych części:
  1. Web development (podstawy rozwoju oprogramowania)
  2. Analiza sygnału
+
 Podczas realizacji każdej części wykonujemy projekt w grupach dwuosobowych. Oceny wystawiane są indywidualnie.
 
 Ocena końcowa jest wypadkową dwóch ocen z projektów.
