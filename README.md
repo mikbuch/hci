@@ -17,8 +17,8 @@ Polecamy podgląd tego repozytorium w Jupyter nbviewer pod :full_moon: [tym](htt
 ### :books: Z czego składa się kurs?
 
 Kurs składa się z dwóch zasadniczych części:
- 1. Web development (podstawy rozwoju oprogramowania)
- 2. Analiza sygnału
+ 1. Tworzenie stron internetowych
+ 2. Analiza biosygnałów
 
 Podczas realizacji każdej części wykonujemy projekt w grupach dwuosobowych. Oceny wystawiane są indywidualnie.
 
