@@ -48,3 +48,9 @@ Wymagania odnośnie raportów:
 Warto wiedzieć: jeśli nowe zmiany zostaną wypchnięte na GitHub, nbviewer odświeży się automatycznie dopiero po około 10-ciu minutach. Można wymusić to odświeżenie dodając na końcu adresu: `?flush_cache=true`
 
 Gdzie mogę znaleźć te wszystkie wymyślne ikony? [Tutaj](https://gist.github.com/rxaviers/7360908)  :link:
+
+#### Bibliografia, źródła i materiały
+
+[Przykłady aplikacji w Django krok po kroku (Django for beginners)](https://github.com/wsvincent/djangoforbeginners)
+
+[Czym są modele w Django (z tutorialu Django girls)](https://tutorial.djangogirls.org/en/django_models/)
