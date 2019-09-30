@@ -8,6 +8,11 @@ verify_ssl = true
 [packages]
 jupyter = "*"
 notebook = "*"
+win32api = "*"
+seaborn = "*"
+matplotlib = "*"
+scipy = "*"
+pandas = "*"
 
 [requires]
 python_version = "3.7"
