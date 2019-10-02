@@ -35,7 +35,7 @@ Wymagania ogólne:
 Wymagania odnośnie raportów:
  * brak strony tytułowej: dwie oceny w dół,
  * strona tytułowa niezgodna z wytycznymi: ocena w dół,
- * brak podpisów pod grafikami: ocena w dół,
+ * brak lub nieprawidłowo wykonane podpisy pod grafikami: ocena w dół,
  * brak opisów nad tabelami: ocena w dół,
  * brak opisów osi na wykresie: ocena w dół,
  * brak bibliografii/źródeł: dwie oceny w dół,
