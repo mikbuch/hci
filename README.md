@@ -33,13 +33,17 @@ Wymagania ogólne:
  * :page_with_curl: raport zgodny z wytycznymi przekazanymi na wykładzie.
 
 Wymagania odnośnie raportów:
- * brak strony tytułowej: dwie oceny w dół,
- * strona tytułowa niezgodna z wytycznymi: ocena w dół,
- * brak lub nieprawidłowo wykonane podpisy pod grafikami: ocena w dół,
- * brak opisów nad tabelami: ocena w dół,
- * brak opisów osi na wykresie: ocena w dół,
- * brak bibliografii/źródeł: dwie oceny w dół,
- * bibliografia/źródła niezgodne z wytycznymi: ocena w dół.
+
+ * Oceniana będzie wartość merytoryczna projektu oraz strona formalna raportu. Szczegółowe kryteria będą ustalane przy omawianiu szczegółów projektu. Na ocenę merytoryczną będzie składać się m. in.:
+ 	**kreatywność pomysłu, 
+	**jakość wykonania, 
+	**złożoność projektu, 
+	**estetyka. 
+ * Przy stronie formalnej raportu należy zwrócić uwagę na: 
+ 	**obecność strony tytułowej zgodnej z wytycznymi podanymi na wykładzie,
+	**prawidłowo wykonane podpisy pod grafikami, 
+	**opisy tabel,
+ 	**obecność bibliografii/źródeł. 
 
 :clock8: **Uwaga** :office: Zgodnie z regulaminem studiów obowiązują dwie obecności, niezależnie od tego, czy są one usprawiedliwione, czy nie. :blue_book:
 
