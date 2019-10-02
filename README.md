@@ -35,15 +35,15 @@ Wymagania ogólne:
 Wymagania odnośnie raportów:
 
  * Oceniana będzie wartość merytoryczna projektu oraz strona formalna raportu. Szczegółowe kryteria będą ustalane przy omawianiu szczegółów projektu. Na ocenę merytoryczną będzie składać się m. in.:
-     kreatywność pomysłu, 
-     jakość wykonania, 
-     złożoność projektu, 
-     estetyka. 
+    kreatywność pomysłu, 
+    jakość wykonania, 
+    złożoność projektu, 
+    estetyka. 
  * Przy stronie formalnej raportu należy zwrócić uwagę na: 
-     obecność strony tytułowej zgodnej z wytycznymi podanymi na wykładzie,
-     prawidłowo wykonane podpisy pod grafikami, 
-     opisy tabel,
-     obecność bibliografii/źródeł. 
+    obecność strony tytułowej zgodnej z wytycznymi podanymi na wykładzie,
+    prawidłowo wykonane podpisy pod grafikami, 
+    opisy tabel,
+    obecność bibliografii/źródeł. 
 
 :clock8: **Uwaga** :office: Zgodnie z regulaminem studiów obowiązują dwie obecności, niezależnie od tego, czy są one usprawiedliwione, czy nie. :blue_book:
 
