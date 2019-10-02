@@ -34,7 +34,7 @@ Wymagania ogólne:
 
 Wymagania odnośnie raportów:
 
- * Oceniana będzie wartość merytoryczna projektu oraz strona formalna raportu. Szczegółowe kryteria będą ustalane przy omawianiu szczegółów projektu. Na ocenę merytoryczną będzie składać się m. in.:
+ * Oceniana będzie wartość merytoryczna projektu oraz strona formalna raportu. Szczegółowe kryteria będą ustalane przy omawianiu projektu. Na ocenę merytoryczną będzie składać się m. in.:
    - kreatywność pomysłu, 
    - jakość wykonania, 
    - złożoność projektu, 
