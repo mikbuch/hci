@@ -8,7 +8,7 @@ verify_ssl = true
 [packages]
 jupyter = "*"
 notebook = "*"
-win32api = "*"
+win32api = {version = "*", os_name = "== 'windows'"}
 seaborn = "*"
 matplotlib = "*"
 scipy = "*"

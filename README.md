@@ -58,3 +58,8 @@ Gdzie mogę znaleźć te wszystkie wymyślne ikony? [Tutaj](https://gist.github.
 [Przykłady aplikacji w Django krok po kroku (Django for beginners)](https://github.com/wsvincent/djangoforbeginners)
 
 [Czym są modele w Django (z tutorialu Django girls)](https://tutorial.djangogirls.org/en/django_models/)
+
+Przykład formularza do odczytywania plików:
+ * [Wpis na blogu](https://simpleisbetterthancomplex.com/tutorial/2016/08/01/how-to-upload-files-with-django.html)
+ * [Repozytorium na GitHub-ie](https://github.com/sibtc/simple-file-upload.git)
+ * [Dokumentacja zarządzania plikami w Django](https://docs.djangoproject.com/en/2.2/ref/files/storage/)
