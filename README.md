@@ -47,6 +47,27 @@ Wymagania odnośnie raportów:
 
 :clock8: **Uwaga** :office: Zgodnie z regulaminem studiów obowiązują dwie obecności, niezależnie od tego, czy są one usprawiedliwione, czy nie. :blue_book:
 
+#### Terminarz zajęć
+
+| lp. | Grupa 1 | Grupa 2 | Grupy 3 i 4 |
+| --- | ------- | ------- | ----------- |
+| 1   | 07.10   | 08.10   | 03.10       |
+| 2   | 14.10   | 15.10   | 10.10       |
+| 3   | 21.10   | 22.10   | 17.10       |
+| 4   | 28.10   | 29.10   | 24.10       |
+| 5   | 04.11   | 05.11   | 07.11       |
+| 6   | 18.11   | 12.11   | 14.11       |
+| 7   | 25.11   | 19.11   | 21.11       |
+| 8   | 02.12   | 26.11   | 28.11       |
+| 9   | 09.12   | 03.12   | 05.12       |
+| 10  | 16.12   | 10.12   | 12.12       |
+| 11  | 23.12   | 17.12   | 19.12       |
+| 12  | 30.12   | 07.01   | 02.01       |
+| 13  | 13.01   | 14.01   | 09.01       |
+| 14  | 20.01   | 21.01   | 16.01       |
+| 15  | 27.01   | 28.01   | 23.01       |
+| 16  |         |         | 30.01       |
+
 #### Informacje dodatkowe
 
 Warto wiedzieć: jeśli nowe zmiany zostaną wypchnięte na GitHub, nbviewer odświeży się automatycznie dopiero po około 10-ciu minutach. Można wymusić to odświeżenie dodając na końcu adresu: `?flush_cache=true`
