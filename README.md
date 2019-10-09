@@ -80,6 +80,8 @@ Gdzie mogę znaleźć te wszystkie wymyślne ikony? [Tutaj](https://gist.github.
 
 [Czym są modele w Django (z tutorialu Django girls)](https://tutorial.djangogirls.org/en/django_models/)
 
+[O web-developmencie dla tych, którzy wolą posłuchać/popatrzeć na spokojnie w domu](https://pasja-informatyki.pl/programowanie-webowe/technologie-video-mp3/)
+
 Przykład formularza do odczytywania plików:
  * [Wpis na blogu](https://simpleisbetterthancomplex.com/tutorial/2016/08/01/how-to-upload-files-with-django.html)
  * [Repozytorium na GitHub-ie](https://github.com/sibtc/simple-file-upload.git)
