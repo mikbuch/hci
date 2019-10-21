@@ -77,7 +77,7 @@ Gdzie mogę znaleźć te wszystkie wymyślne ikony? [Tutaj](https://gist.github.
 
 [Przykłady aplikacji w Django krok po kroku (Django for beginners)](https://github.com/wsvincent/djangoforbeginners)
 
-[O HTMLu (z tutorialu Django girls)](https://tutorial.djangogirls.org/en/html/)
+[O HTMLu (z tutorialu Django girls)](https://tutorial.djangogirls.org/en/html/), oraz [jak zrobić podstrony](https://github.com/wsvincent/djangoforbeginners/tree/master/ch3-pages-app) z [_Django for beginners_ ](https://github.com/wsvincent/djangoforbeginners)
 
 [Czym są modele w Django (z tutorialu Django girls)](https://tutorial.djangogirls.org/en/django_models/)
 
