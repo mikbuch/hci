@@ -12,7 +12,7 @@ Polecamy podgląd tego repozytorium w Jupyter nbviewer pod :full_moon: [tym](htt
 
  * dr inż. Marcin Jukiewicz (koordynator) marcin.jukiewicz[at]amu.edu.pl
  * mgr Dawid Ratajczyk, dawid.ratajczyk[at]amu.edu.pl
- * mgr Mikołaj Buchwald, mikolaj.buchwald[at]amu.edu.pl, dyżur środy 16:45-17:45
+ * mgr Mikołaj Buchwald, mikolaj.buchwald[at]amu.edu.pl, dyżur środy 16:45-17:45, 110
 
 ### :books: Z czego składa się kurs?
 
