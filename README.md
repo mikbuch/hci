@@ -69,7 +69,7 @@ Wymagania odnośnie raportów:
 
 _* Do tego dnia należy przesłać raport z projektu webowego. Na zajęciach w tym terminie każda dwuosobowa grupa krótko opowie reszcie grupy zajęciowej o swoim projekcie.
 
-_** Do tego dnia należy przesłać projekt z analizy danych. Na tych zajęciach w tym terminie każda dwuosobowa grupa krótko opowie reszcie grupy zajęciowej o swoim projekcie.
+_** Do tego dnia należy przesłać projekt z analizy danych. Na zajęciach w tym terminie każda dwuosobowa grupa krótko opowie reszcie grupy zajęciowej o swoim projekcie.
 
 _*** Kwestia różnic w liczbie terminów zostanie rozwiązana po Nowym Roku.
 
