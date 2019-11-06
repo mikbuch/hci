@@ -30,7 +30,7 @@ Skala ocen z projektów: 2.0, 3.0, 3.5, 4.0, 4.5, 5.0
 
 Wymagania ogólne:
  * :octocat: projekt znajduje się na GitHubie,
- * :page_with_curl: raport zgodny z wytycznymi przekazanymi na wykładzie.
+ * :page_with_curl: raport zgodny z wytycznymi z materiałów do wykładu z AiWD ([tutaj](https://www.dropbox.com/s/myy9xeyedng4myb/aiwd-4.pdf?dl=0)).
 
 Wymagania odnośnie raportów:
 
