@@ -11,7 +11,7 @@ Polecamy podgląd tego repozytorium w Jupyter nbviewer pod :full_moon: [tym](htt
 ### :e-mail: Kontakt do prowadzących
 
  * dr inż. Marcin Jukiewicz (koordynator) marcin.jukiewicz[at]amu.edu.pl
- * mgr Dawid Ratajczyk, dawid.ratajczyk[at]amu.edu.pl
+ * mgr Dawid Ratajczyk, dawid.ratajczyk[at]amu.edu.pl, dyżur czwartek 11:30-12:30, 110
  * mgr Mikołaj Buchwald, mikolaj.buchwald[at]amu.edu.pl, dyżur środy 16:45-17:45, 110
 
 ### :books: Z czego składa się kurs?
